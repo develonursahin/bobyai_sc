@@ -19,7 +19,7 @@ A modern and user-friendly movie discovery application. Explore popular films, a
         <em>Genre Selection</em>
       </td>
       <td align="center">
-        <img src="assets/screenshots/home_screen.png" width="200" alt="Home"/>
+        <img src="assets/screenshots/home.png" width="200" alt="Home"/>
         <br />
         <em>Home</em>
       </td>
@@ -203,7 +203,7 @@ Modern ve kullanıcı dostu bir film keşif uygulaması. Popüler filmleri keşf
         <em>Tür Seçimi</em>
       </td>
       <td align="center">
-        <img src="assets/screenshots/home_screen.png" width="200" alt="Ana Sayfa"/>
+        <img src="assets/screenshots/home.png" width="200" alt="Ana Sayfa"/>
         <br />
         <em>Ana Sayfa</em>
       </td>
