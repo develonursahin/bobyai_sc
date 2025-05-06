@@ -44,11 +44,12 @@ class OnboardingGenresView extends StatelessWidget {
               top: 100,
               left: 0,
               right: 0,
-              height: 80,
+              height: 70,
               child: Container(
                 decoration: BoxDecoration(
                   gradient: LinearGradient(
                     begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
                     colors: [AppColors.black, AppColors.black.withAlpha(0)],
                   ),
                 ),

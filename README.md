@@ -3,12 +3,52 @@
 A modern and user-friendly movie discovery application. Explore popular films, access detailed information, and keep track of your favorite movies.
 
 > **Note:** This project was developed as part of a study case provided during a job application process for the BOBYAI company. In addition to the required features, extra functionalities were also implemented.
+## 📱 Ekran Görüntüleri
+
+<div align="center">
+  <table>
+    <tr>
+    <td align="center">
+        <img src="assets/screenshots/onboarding_movies.png" width="200" alt="Movie Selection"/>
+        <br />
+        <em>Movie Selection</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/onboarding_genres.png" width="200" alt="Genre Selection"/>
+        <br />
+        <em>Genre Selection</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/home_screen.png" width="200" alt="Home"/>
+        <br />
+        <em>Home</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/movie_details.png" width="200" alt="Movie Details"/>
+        <br />
+        <em>Movie Details</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/search_screen.png" width="200" alt="Search Screen"/>
+        <br />
+        <em>Search Screen</em>    
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/paywall.png" width="200" alt="Paywall"/>
+        <br />
+        <em>Paywall</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Features
 
 - **Movie Discovery**: Discover popular and up-to-date movies using the TMDB API  
 - **Category-Based Search**: Filter movies by genres  
-- **Search Functionality**: Easily find the movies you’re looking for  
+- **Search Functionality**: Easily find the movies you're looking for  
 - **Movie Details**: Access in-depth information, posters, and images of each movie  
 - **Favorite Movies**: Add the movies you like to your favorites  
 - **Personalization**: Choose your favorite genres and movies during onboarding  
@@ -36,7 +76,7 @@ In addition to the core features required by the case, the following enhancement
 
 Some challenges encountered during the development process:
 
-- **Onboarding Movie List**: The case requirement was to display movie posters rotating along the inner surface of a circular path. In the current implementation, the movie list rotates on the outer side of a circular path. This limitation was due to the constraints of Flutter’s ListWheelScrollView widget configuration.
+- **Onboarding Movie List**: The case requirement was to display movie posters rotating along the inner surface of a circular path. In the current implementation, the movie list rotates on the outer side of a circular path. This limitation was due to the constraints of Flutter's ListWheelScrollView widget configuration.
 
 ## 🛠️ Technologies Used
 
@@ -115,7 +155,6 @@ The application is built following Clean Architecture principles:
   - Free trial option  
   - Feature comparison chart  
 
-
 ## 🚀 Installation
 
 1. Install the Flutter SDK: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
@@ -142,12 +181,52 @@ Edit the file located at `lib/app/common/config/config.dart` and insert your API
 
 This project is licensed under the MIT License.
 
-
 # BOBY Movie App 🎬 - TR
 
 Modern ve kullanıcı dostu bir film keşif uygulaması. Popüler filmleri keşfedin, detaylı bilgilere erişin ve favori filmlerinizi takip edin.
 
 > **Not:** Bu proje, BOBYAI şirketinin iş başvurusu sürecinde verilen bir study case olarak geliştirilmiştir. Case kapsamında istenen özelliklerin yanı sıra ek özellikler de projeye dahil edilmiştir.
+
+## 📱 Ekran Görüntüleri
+
+<div align="center">
+  <table>
+    <tr>
+     <td align="center">
+        <img src="assets/screenshots/onboarding_movies.png" width="200" alt="Film Seçimi"/>
+        <br />
+        <em>Film Seçimi</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/onboarding_genres.png" width="200" alt="Tür Seçimi"/>
+        <br />
+        <em>Tür Seçimi</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/home_screen.png" width="200" alt="Ana Sayfa"/>
+        <br />
+        <em>Ana Sayfa</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/movie_details.png" width="200" alt="Film Detayları"/>
+        <br />
+        <em>Film Detayları</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/search_screen.png" width="200" alt="Arama Ekranı"/>
+        <br />
+        <em>Arama Ekranı</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/paywall.png" width="200" alt="Abonelik Ekranı"/>
+        <br />
+        <em>Abonelik Ekranı</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Özellikler
 
