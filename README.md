@@ -7,6 +7,7 @@ A modern and user-friendly movie discovery application. Explore popular films, a
 ## 🎥 Demo Video
 
 To watch the demo video of the application [click here](assets/videos/app_demo.mp4).
+Alternatively, you can also watch it via [Google Drive](https://drive.google.com/drive/folders/1w1deNwlP40FfWqO6smZAmIC7xZhWaO_P?usp=sharing).
 
 ## 📱 Screenshoots
 
@@ -195,6 +196,8 @@ Modern ve kullanıcı dostu bir film keşif uygulaması. Popüler filmleri keşf
 ## 🎥 Demo Video
 
 Uygulamanın demo videosunu izlemek için [buraya tıklayın](assets/videos/app_demo.mp4).
+
+Alternatif olarak [Google Drive üzerinden de izleyebilirsiniz](https://drive.google.com/drive/folders/1w1deNwlP40FfWqO6smZAmIC7xZhWaO_P?usp=sharing).
 
 ## 📱 Ekran Görüntüleri
 
