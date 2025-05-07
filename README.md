@@ -3,7 +3,12 @@
 A modern and user-friendly movie discovery application. Explore popular films, access detailed information, and keep track of your favorite movies.
 
 > **Note:** This project was developed as part of a study case provided during a job application process for the BOBYAI company. In addition to the required features, extra functionalities were also implemented.
-## 📱 Ekran Görüntüleri
+
+## 🎥 Demo Video
+
+To watch the demo video of the application [click here](assets/videos/app_demo.mp4).
+
+## 📱 Screenshoots
 
 <div align="center">
   <table>
@@ -186,6 +191,10 @@ This project is licensed under the MIT License.
 Modern ve kullanıcı dostu bir film keşif uygulaması. Popüler filmleri keşfedin, detaylı bilgilere erişin ve favori filmlerinizi takip edin.
 
 > **Not:** Bu proje, BOBYAI şirketinin iş başvurusu sürecinde verilen bir study case olarak geliştirilmiştir. Case kapsamında istenen özelliklerin yanı sıra ek özellikler de projeye dahil edilmiştir.
+
+## 🎥 Demo Video
+
+Uygulamanın demo videosunu izlemek için [buraya tıklayın](assets/videos/app_demo.mp4).
 
 ## 📱 Ekran Görüntüleri
 
